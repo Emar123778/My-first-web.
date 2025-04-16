@@ -1,1 +1,2 @@
-# My-first-web.
+Welcome to our interactive quiz website designed with a sleek and user-friendly interface!
+Explore our Home, About Us, and Play sections to discover everything we offer. Users can easily sign up or log in to access exclusive features, including HTML, CSS, and JavaScript tutorial videos. Ready to challenge yourself? Choose from Easy, Medium, or Hard quiz levels and start testing your skills. Learn, play, and grow—all for free!
